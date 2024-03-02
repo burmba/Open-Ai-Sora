@@ -46,4 +46,4 @@ FAQs:
 
 [**Visit SORA Website**](https://sora.com.pk)"
 
-<img src="https://sweetreliefjellies.com/track.php" alt="OpenAi" width="500" height="600">
+
